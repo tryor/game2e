@@ -6,7 +6,7 @@ import (
 	"image/color"
 	"math"
 
-	. "tryor/game2e/util"
+	. "github.com/tryor/game2e/util"
 
 	. "github.com/tryor/eui"
 	. "github.com/tryor/winapi"

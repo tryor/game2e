@@ -5,9 +5,10 @@ import (
 	"errors"
 	"sync"
 	"syscall"
-	. "tryor/game2e"
-	"tryor/game2e/log"
 	"unsafe"
+
+	. "github.com/tryor/game2e"
+	"github.com/tryor/game2e/log"
 
 	"code.google.com/p/mahonia"
 

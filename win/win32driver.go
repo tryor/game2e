@@ -3,7 +3,7 @@ package win
 import (
 	"runtime"
 	//	"time"
-	. "tryor/game2e"
+	. "github.com/tryor/game2e"
 	//	"tryor/game2e/log"
 
 	. "github.com/tryor/winapi"

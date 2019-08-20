@@ -3,7 +3,8 @@ package util
 import (
 	//	"os"
 	"sync"
-	"tryor/game2e/log"
+
+	"github.com/tryor/game2e/log"
 )
 
 type ITask interface {

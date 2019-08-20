@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"image"
 
-	"tryor/game2e/log"
-	. "tryor/game2e/util"
+	"github.com/tryor/game2e/log"
+	. "github.com/tryor/game2e/util"
 
 	. "github.com/tryor/eui"
 )

@@ -1,7 +1,7 @@
 package ai
 
 import (
-	. "tryor/game2e/util"
+	. "github.com/tryor/game2e/util"
 
 	. "github.com/tryor/eui"
 

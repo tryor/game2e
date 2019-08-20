@@ -4,7 +4,8 @@ import (
 	"runtime"
 	"sync/atomic"
 	"time"
-	"tryor/game2e/log"
+
+	"github.com/tryor/game2e/log"
 )
 
 //type ClockCallback func(clock uint64)

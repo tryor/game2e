@@ -4,8 +4,8 @@ import (
 	"unicode"
 	"unsafe"
 
-	. "tryor/game2e"
-	"tryor/game2e/log"
+	. "github.com/tryor/game2e"
+	"github.com/tryor/game2e/log"
 
 	"github.com/go-gl/glfw/v3.2/glfw"
 	//	"github.com/google/gxui"

@@ -3,7 +3,7 @@ package game2e
 import (
 	"image"
 
-	. "tryor/game2e/util"
+	. "github.com/tryor/game2e/util"
 
 	. "github.com/tryor/eui"
 )

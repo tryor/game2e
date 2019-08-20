@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"os"
-	"tryor/game2e/log"
+
+	"github.com/tryor/game2e/log"
 )
 
 type ResourceInfo struct {

@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"tryor/game2e/log"
+	"github.com/tryor/game2e/log"
 )
 
 func init() {

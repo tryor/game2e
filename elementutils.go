@@ -3,8 +3,8 @@ package game2e
 import (
 	"errors"
 
-	"tryor/game2e/log"
-	. "tryor/game2e/util"
+	"github.com/tryor/game2e/log"
+	. "github.com/tryor/game2e/util"
 
 	. "github.com/tryor/eui"
 )
